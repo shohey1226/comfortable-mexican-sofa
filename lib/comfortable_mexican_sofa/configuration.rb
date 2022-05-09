@@ -114,6 +114,7 @@ class ComfortableMexicanSofa::Configuration
       "hr"    => "Hrvatski",
       "it"    => "Italiano",
       "ja"    => "日本語",
+      "ko"    => "Korean",
       "nb"    => "Norsk",
       "nl"    => "Nederlands",
       "pl"    => "Polski",
